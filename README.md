@@ -1,8 +1,6 @@
 # Real-Time Hand Gesture Recognition Using Surface Electromyography and Machine Learning: A Systematic Literature Review
 
-In this LaTeX project, you can find the current version of the publication "Real-Time Hand Gesture Recognition Using Surface Electromyography and Machine Learning: A Systematic Literature Review", which is published in the [Sensors — Open Access Journal](https://www.mdpi.com/journal/sensors) (Editor: Multidisciplinary Digital Publishing Institute (MDPI)).  
-
-1. [current version](https://github.com/andresjarami/Real-Time-Hand-Gesture-Recognition-Using-Surface-Electromyography-and-Machine-Learning-A-Systematic/blob/master/sensors-669931-proof.pdf)
+In this LaTeX project, you can find the [current version](https://github.com/andresjarami/Real-Time-Hand-Gesture-Recognition-Using-Surface-Electromyography-and-Machine-Learning-A-Systematic/blob/master/sensors-669931-proof.pdf) of the publication "Real-Time Hand Gesture Recognition Using Surface Electromyography and Machine Learning: A Systematic Literature Review".
 
 
 ## Abstract
